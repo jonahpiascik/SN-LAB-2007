@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="User Details">f16ea8ef2fe5381082893996f699b65e</button>
+        <button_table>ast_contract</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Contract Admin">cc4d20ef2fe5381082893996f699b6e0</destination_ui_parameter>
+        <source_field>contract_administrator</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:27:34</sys_created_on>
+        <sys_id>f56ee4232f29381082893996f699b6b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cc4d20ef2fe5381082893996f699b6e0</sys_name>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_f56ee4232f29381082893996f699b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:27:56</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

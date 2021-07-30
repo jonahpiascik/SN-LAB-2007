@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Contract Admin</name>
+        <order>1</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="User Details">57ece8af2fe5381082893996f699b64e</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:22:32</sys_created_on>
+        <sys_id>cc4d20ef2fe5381082893996f699b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contract Admin</sys_name>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_cc4d20ef2fe5381082893996f699b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:22:32</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc4d20ef2fe5381082893996f699b6e0"/>
+</record_update>

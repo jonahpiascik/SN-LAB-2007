@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Contracts with Admin</name>
+        <query_condition table="ast_contract">contract_administratorISNOTEMPTY^ORDERBYDESCnumber<item endquery="false" field="contract_administrator" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 21:52:02</sys_created_on>
+        <sys_id>e5489d1b2fadf41082893996f699b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contracts with Admin</sys_name>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_data_item_e5489d1b2fadf41082893996f699b6e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 21:52:02</sys_updated_on>
+        <table>ast_contract</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e5489d1b2fadf41082893996f699b6e4"/>
+</record_update>

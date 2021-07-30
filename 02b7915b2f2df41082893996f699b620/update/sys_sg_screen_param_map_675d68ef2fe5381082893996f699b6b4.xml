@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="User">c8cc24af2fe5381082893996f699b6b3</item_parameter>
+        <screen display_value="User Details">57ece8af2fe5381082893996f699b64e</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:23:03</sys_created_on>
+        <sys_id>675d68ef2fe5381082893996f699b6b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c8cc24af2fe5381082893996f699b6b3</sys_name>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_675d68ef2fe5381082893996f699b6b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:23:03</sys_updated_on>
+        <ui_parameter display_value="Contract Admin">cc4d20ef2fe5381082893996f699b6e0</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

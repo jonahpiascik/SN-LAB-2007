@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_04_FieldLabel</description>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 21:56:24</sys_created_on>
+        <sys_id>b1495d5b2fadf41082893996f699b6df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_b1495d5b2fadf41082893996f699b6df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:15:14</sys_updated_on>
+        <translated_value/>
+        <value>ends</value>
+        <view_config_element display_value="text_04_element">71495d5b2fadf41082893996f699b6dd</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1495d5b2fadf41082893996f699b6df"/>
+</record_update>

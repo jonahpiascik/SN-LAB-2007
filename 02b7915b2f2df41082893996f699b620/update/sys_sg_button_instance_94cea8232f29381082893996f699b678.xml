@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="User Details">f16ea8ef2fe5381082893996f699b65e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>contract_administrator</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>10</order>
+        <parent>c758915b2fadf41082893996f699b6a0</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:29:07</sys_created_on>
+        <sys_id>94cea8232f29381082893996f699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contracts Mobile" source="x_snc_contracts_mo">02b7915b2f2df41082893996f699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contracts Mobile">02b7915b2f2df41082893996f699b620</sys_scope>
+        <sys_update_name>sys_sg_button_instance_94cea8232f29381082893996f699b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:29:07</sys_updated_on>
+        <table>ast_contract</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=94cea8232f29381082893996f699b678"/>
+</record_update>
